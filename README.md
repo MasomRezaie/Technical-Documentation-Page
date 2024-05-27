@@ -8,6 +8,7 @@ link correctly the css file in html. (<link<link rel="stylesheet" href="./style.
 </head>>)
 
 ## Demo 📸
+![Project Demo](./READ.PNG)
 
 
 ## Technologies Used 🛠️
