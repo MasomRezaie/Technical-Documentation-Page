@@ -59,11 +59,11 @@ Main Content Styles
   line-height: 1.6;
 }
 
-/* .main-section code {
+.main-section code {
   font-family: Consolas, monospace;
   background-color: #f4f4f4;
   padding: 2px 5px;
-} */
+}
 
 /* .main-section ul {
   list-style-type: none;
