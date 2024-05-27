@@ -1,6 +1,6 @@
- General Styles
+  /* General Styles */
 
- body {
+body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -33,7 +33,7 @@
   margin-bottom: 10px;
 }
 
-Main Content Styles
+/* Main Content Styles */
 
 #main-doc {
   margin-left: 220px;
@@ -74,7 +74,7 @@ Main Content Styles
   margin-bottom: 5px;
 }
 
-Html style
+/* Html style */
 
 @media (max-width: 768px) {
   #navbar {
