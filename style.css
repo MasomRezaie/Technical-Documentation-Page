@@ -1,4 +1,4 @@
- /* General Styles */
+ General Styles
 
  body {
   font-family: Arial, sans-serif;
@@ -6,7 +6,7 @@
   padding: 0;
   background-color: rgba(70, 130, 180,0.2);
 }
-
+/* 
 /* Navbar Styles */
 
 #navbar {
@@ -19,28 +19,28 @@
   color: #fff;
   padding: 20px;
   box-sizing: border-box;
-}
+} */
 
-#navbar header {
+/* #navbar header {
   font-size: 1.5em;
   margin-bottom: 20px;
-}
+} */
 
-.nav-link {
+/* .nav-link {
   display: block;
   color: #fff;
   text-decoration: none;
   margin-bottom: 10px;
-}
+} */
 
-/* Main Content Styles */
+Main Content Styles
 
 #main-doc {
   margin-left: 220px;
   padding: 20px;
 }
 
-.main-section {
+/* .main-section {
   margin-bottom: 40px;
   #img {
     max-width: 100%;
@@ -48,33 +48,33 @@
     display: block;
     margin: 0 auto;
 }
-}
+} */
 
-.main-section header {
+/* .main-section header {
   font-size: 1.3em;
   margin-bottom: 10px;
-}
+} */
 
-.main-section p {
+/* .main-section p {
   line-height: 1.6;
-}
+} */
 
-.main-section code {
+/* .main-section code {
   font-family: Consolas, monospace;
   background-color: #f4f4f4;
   padding: 2px 5px;
-}
+} */
 
-.main-section ul {
+/* .main-section ul {
   list-style-type: none;
   padding: 0;
 }
 
 .main-section li {
   margin-bottom: 5px;
-}
+} */
 
-/* Html style */
+Html style
 
 @media (max-width: 768px) {
   #navbar {
@@ -91,7 +91,7 @@
   }
   }
 
-  #red {
+  /* #red {
     color: red;
   }
 
@@ -101,4 +101,4 @@
 
   #big {
     color: rgb(255, 0, 179);
-  }
+  } */
