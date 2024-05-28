@@ -20,8 +20,6 @@ body {
   box-sizing: border-box;
 }
 
-
-
 #navbar header {
   font-size: 1.5em;
   margin-bottom: 20px;
@@ -51,7 +49,6 @@ body {
   display: block;
   margin: auto;
 }
-
 
 .main-section header {
   font-size: 1.3em;
