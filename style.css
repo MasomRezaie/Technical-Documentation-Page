@@ -86,18 +86,22 @@ body {
   color: rgb(255, 0, 179);
 }
 
-/* Media query */
-@media (max-width: 768px) {
+/* -------------------------Media query ------------------------*/
+@media screen and (min-width: 600px) {
   #navbar {
-    width: 100%;
-    height: auto;
-    position: static;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 50%;
+    background-color: rgba(35, 146, 250, 0.4);
+    color: #fff;
     padding: 10px;
-    text-align: center;
+    box-sizing: border-box;
   }
 
-  #main-doc {
-    margin-left: 0;
-    padding-top: 100px; /* Adjust for the height of the navbar */
-  }
+  #navbar header {
+    font-size: 0.5em;
+    margin-bottom: 10px;
+  } 
 }
