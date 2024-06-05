@@ -1,4 +1,4 @@
-/*----------------- General Styles--------------------*/
+/* ----------------- General Styles-------------------- */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -6,7 +6,7 @@ body {
   background-color: rgba(70, 130, 180, 0.2);
 }
 
-/*--------------------- Navbar Styles------------------- */
+/* --------------------- Navbar Styles------------------- */
 
 #navbar {
   position: fixed;
@@ -37,7 +37,7 @@ body {
   margin-bottom: 10px;
 }
 
-/*------------------- Main Content Styles --------------------*/
+/* ------------------- Main Content Styles -------------------- */
 
 #main-doc {
   margin-left: 220px;
@@ -86,7 +86,7 @@ body {
   color: rgb(255, 0, 179);
 }
 
-/* -------------------------Media query ------------------------*/
+/* -------------------------Media query ------------------------ */
 @media screen and (max-width: 600px) {
   #navbar {
     position: fixed;
@@ -103,5 +103,6 @@ body {
   #navbar header {
     font-size: 0.5em;
     margin-bottom: 10px;
-  } 
+  }
+  
 }
